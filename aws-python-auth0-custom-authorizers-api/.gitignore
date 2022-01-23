@@ -4,3 +4,4 @@ secrets.json
 public_key
 /frontend/misc.md
 vendored
+venv
